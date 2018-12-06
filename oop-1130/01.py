@@ -14,3 +14,5 @@ print(xiaohong.name)
 print(xiaohong.age)
 xiaohong.Homework()
 print(xiaohong.course)
+
+print(PythonStudent.__dict__)
